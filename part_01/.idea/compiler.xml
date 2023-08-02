@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="abcd" target="11" />
+      <module name="ORM_hibernate_part_02" target="11" />
+      <module name="part_01" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
